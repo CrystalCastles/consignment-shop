@@ -2,3 +2,4 @@ c:\users\danie\documents\visual studio 2015\Projects\ConsignmentShop\Consignment
 c:\users\danie\documents\visual studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
 c:\users\danie\documents\visual studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
 c:\users\danie\documents\visual studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb
+c:\users\danie\documents\visual studio 2015\Projects\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
